@@ -37,7 +37,7 @@ Adivina el número secreto entre 1 y 10 y demuestra qué tan buen instinto tiene
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/numero-secreto.git
+   git clone https://github.com/tu-usuario/Juego-Secreto.git
 2. Abre el archivo index.html en tu navegador.
 3. ¡Y listo! Empieza a jugar.
 
